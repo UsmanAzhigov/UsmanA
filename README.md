@@ -1,4 +1,4 @@
-                                                                                          #👋Hi, I’m Usman
+#👋Hi, I’m Usman
 
 - 👋 Hi, I’m [@Chel06_ing](https://t.me/Chel06_ing)
 - 👀 I’m interested in programming
