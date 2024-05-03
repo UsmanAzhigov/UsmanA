@@ -9,14 +9,14 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanAzhigov&theme=dark&layout=compact)](https://github.com/Chel06/github-readme-stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Chel06&theme=dark)](https://github.com/UsmanAzhigov/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Chel06_ing&theme=dark)](https://github.com/UsmanAzhigov/leetcode-stats)
 
 ---
 
 #### Additional Information:
 
 - CodeWars Profile: [Chel06](https://www.codewars.com/users/Chel06)
-- LeetCode Profile: [Chel06](https://leetcode.com/u/Chel06/)
+- LeetCode Profile: [Chel06](https://leetcode.com/u/Chel06_ing/)
 - GitHub Experience: 2+ years
 
 ---
